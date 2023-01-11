@@ -1,0 +1,78 @@
+#vs
+{
+    color: red;
+    font-weight: bold;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+}
+
+b
+{
+    color: purple;
+    font-weight: bolder;
+}
+
+span
+{
+    color: red;
+    font-weight: bolder;
+}
+
+h4
+{
+    font-weight: bold;
+    color: white;
+}
+
+.img-responsive
+{
+    border-radius: 25px;
+}
+
+.test_image_and_result
+{
+    width: 1470px;
+    height: 625px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-sizing: border-box;
+    background-color: gray; 
+}
+
+li
+{
+    color: black;
+}
+
+h5
+{
+    color: black;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 15px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+#google_lens
+{
+    color: black;
+    font-weight: bold;
+}
+
+#Mobile_net
+{
+    color: black;
+    font-weight: bold;
+}
